@@ -16,9 +16,9 @@ Incluye gestión de pedidos, categorías y productos.
 
 # Capturas de pantalla
 
-Pasarela de pagos = (frontend/assets/visa.jpeg)
-Mapa con ruta = (frontend/assets/trazado.jpeg)
-Productos = (frontend/assets/meat.jpeg)
+Pasarela de pagos = (ExpCassV1/assets/visa.jpeg)
+Mapa con ruta = (ExpCassV1/assets/trazado.jpeg)
+Productos = (ExpCassV1/assets/meat.jpeg)
 
 # Roles de usuario
 
