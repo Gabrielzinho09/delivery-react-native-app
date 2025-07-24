@@ -14,6 +14,11 @@ Esta aplicación permite realizar el seguimiento en tiempo real desde un punto A
 
 Incluye gestión de pedidos, categorías y productos.
 
+# Capturas de pantalla
+
+Pasarela de pagos = (frontend/assets/visa.jpeg)
+Mapa con ruta = (frontend/assets/trazado.jpeg)
+Productos = (frontend/assets/meat.jpeg)
 
 # Roles de usuario
 
