@@ -1,0 +1,93 @@
+import { StyleSheet } from 'react-native';
+const RegisterStyles = StyleSheet.create({
+    container: {
+        flex: 1,
+        backgroundColor: 'black',
+    },
+    imageBackground: {
+        width: '100%',
+        height: '90%',
+        opacity: 0.7,
+        bottom: '30%'
+    },
+    form: {
+        width: '100%',
+        height: '76%',
+        backgroundColor: 'white',
+        position: 'absolute',
+        bottom: 0,
+        borderTopLeftRadius: 40,
+        borderTopRightRadius: 40,
+        padding: 20
+    },
+    formText: {
+        fontWeight: 'bold',
+        fontSize: 15,
+        color: '#3C5B3A'
+    },
+    formTextInput: {
+        flex: 1,
+        borderBottomWidth: 1,
+        borderBottomColor: '#879975',
+        marginLeft: 15
+    },
+    formInput: {
+        flexDirection: 'row',
+        marginTop: 20
+    },
+    formIcon: {
+        width: 25,
+        height: 25,
+        marginTop: 5
+    },
+    formRegister: {
+        flexDirection: 'row',
+        justifyContent: 'center',
+        marginTop: 30
+    },
+    formRegisterText: {
+        fontStyle: 'italic',
+        color: '#AEAA63',
+        borderBottomWidth: 1,
+        borderBottomColor: '#AEAA63',
+        fontWeight: 'bold',
+        marginLeft: 10
+    }
+    ,
+    logoContainer: {
+        position: 'absolute',
+        alignSelf: 'center',
+        top: '4%',
+        alignItems: 'center'
+        //marginBottom:18
+
+    },
+    logoImage: {
+        width: 80,
+        height: 80,
+        // position:'relative',
+        //alignSelf:'flex-start'
+        //marginRight:25,
+        marginHorizontal: 10,
+        borderRadius: 10
+
+    },
+    logoText: {
+        color: 'white',
+        textAlign: 'center',
+        fontSize: 22,
+        marginTop: 20,
+        fontWeight: 'bold'
+    },
+    loading:{
+        bottom:0,
+        top:0,
+        right:0,
+        left:0,
+        position: 'absolute'
+    }
+
+});
+
+
+export default RegisterStyles;
